@@ -2,7 +2,7 @@
 
 
 //Incluindo Configuration no arquivo
-include('config.php');
+include 'config.php';
 
 $login_button = '';
 
